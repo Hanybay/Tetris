@@ -64,3 +64,6 @@ void form_alea(piece box){
 
 
 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
+
+
+/* test */
